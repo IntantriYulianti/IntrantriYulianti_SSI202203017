@@ -1,5 +1,3 @@
-# Absensi-Apps
-Membuat Aplikasi Absensi dengan Android Studio
 
 
 
