@@ -1,9 +1,11 @@
 # Absensi-Apps
 Membuat Aplikasi Absensi dengan Android Studio
 
-![Uploading Jepretan Layar 2024-07-13 pukul 21.18.41.png…]()
+
 
 Intrantri Yulianti
 SSI202203017
+![Uploading Hasiloutput..png…]()
+
 Sistem Informasi
 
